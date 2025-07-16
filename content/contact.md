@@ -10,4 +10,4 @@ We'd love to hear from you. Reach out to discuss how we can help your business s
 ### Contact Information
 
 - **Email**: {{% param "email" %}}
-- **Hours**: Monday - Friday, 9:00 AM - 6:00 PM EST
+- **Hours**: Monday - Friday, 9:00 AM - 6:00 PM CST
